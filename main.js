@@ -1,5 +1,5 @@
 alert(
-  "Assalomu alaykum saytga xush kelibsiz. \nRo`yxatdan o`tish uchun arizani to`ldiring."
+  "Assalomu alaykum saytga xush kelibsiz. \nRo'yxatdan o'tish uchun arizani to'git ldiring."
 );
 
 var name = prompt("Ismingizni kiriting");
@@ -17,7 +17,7 @@ var tel = prompt("telefon raqamingizni kiriting");
 var email = prompt("email manzilingizni kiriting");
 // console.log(email);
 alert(
-  `${name} ${surname} siz royxatga olindingiz tez orada siz bilan boglanishadi`
+  `${name} ${surname} siz ro'yxatga olindingiz tez orada siz bilan bog'lanishadi`
 );
 
 var a = 10;
