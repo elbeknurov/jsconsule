@@ -3,19 +3,19 @@ alert(
 );
 
 var name = prompt("Ismingizni kiriting");
-// console.log(name);
+console.log(name);
 var surname = prompt("Familyangizni kiriting");
-// console.log(surname);
+console.log(surname);
 var age = prompt("Yoshingizni kiriting");
-// console.log(age);
+console.log(age);
 var place = prompt("Yashash manzilingizni kiriting");
-// console.log(place);
+console.log(place);
 var job = prompt("Siz hozirgi vaqtda qayerda ishlaysiz yoki o`qiysizmi?");
-// console.log(job);
+console.log(job);
 var tel = prompt("telefon raqamingizni kiriting");
-// console.log(tel);
+console.log(tel);
 var email = prompt("email manzilingizni kiriting");
-// console.log(email);
+console.log(email);
 alert(
   `${name} ${surname} siz ro'yxatga olindingiz tez orada siz bilan bog'lanishadi`
 );
