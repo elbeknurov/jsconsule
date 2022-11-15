@@ -1,5 +1,5 @@
 alert(
-  "Assalomu alaykum saytga xush kelibsiz. \nRo'yxatdan o'tish uchun arizani to'git ldiring."
+  "Assalomu alaykum saytga xush kelibsiz. \nRo'yxatdan o'tish uchun arizani to'g'ri to'ldiring."
 );
 
 var name = prompt("Ismingizni kiriting");
